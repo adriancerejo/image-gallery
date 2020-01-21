@@ -19,3 +19,5 @@ Provides a gallery of images given a keyword from the user.
 ## To Add (Maybe):
 - [ ] Improve responsiveness
 - [ ] Add more pages/infinite scroll
+
+Images Sourced from Unsplash
