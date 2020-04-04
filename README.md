@@ -1,8 +1,7 @@
 # Image-Gallery
 
 ## Check it out here:
-https://gallery-react-e3b72.firebaseapp.com/
-
+https://image-gallery-d3b64.web.app/
 ## About:
 Provides a gallery of images given a keyword from the user.
 
