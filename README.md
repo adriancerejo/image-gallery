@@ -13,7 +13,7 @@ Provides a gallery of images given a keyword from the user.
 - When trying to test locally, you will need an API key from Unsplash
  
 ## To Add (Maybe):
-- [ ] Improve responsiveness
+- [X] Improve responsiveness
 - [ ] Add more pages/infinite scroll
 
 Images Sourced from Unsplash
