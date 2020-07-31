@@ -31,7 +31,6 @@ const App = () => {
     );
     const data = await response.json();
     setImages(data.results);
-    console.log(data.results);
   };
 
   return (
